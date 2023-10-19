@@ -62,3 +62,21 @@ The analysis of the bike share data revealed interesting findings about usage pa
 
 ### Acknowledgments
 We would like to acknowledge the cities of New York, Chicago, and Washington, D.C. for providing the bike share data used in this project. Without their open data initiatives, this analysis would not have been possible.
+
+
+
+
+
+
+Merge branch 'refactoring' into master
+
+This merge incorporates the changes made in the 'refactoring' branch into the 'master' branch. The 'refactoring' branch focused on improving code readability and optimizing performance. The changes include refactoring function names, removing redundant code, and optimizing algorithm efficiency. By merging these changes into the 'master' branch, we ensure that the latest improvements are available in the main codebase.
+
+Changes made in the 'refactoring' branch:
+- Renamed function calculate_average() to calc_avg()
+- Removed unused variables in main.py
+- Optimized sorting algorithm in sort_data()
+
+The merge process was successful, and the 'master' branch now includes the improvements made in the 'refactoring' branch.
+
+[Additional details or comments if necessary]
