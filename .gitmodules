@@ -1,0 +1,3 @@
+[submodule "desktop/pdsnd_github"]
+	path = desktop/pdsnd_github
+	url = https://github.com/prinku40/pdsnd_github.git
